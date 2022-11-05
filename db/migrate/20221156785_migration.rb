@@ -1,4 +1,4 @@
-# Migration to create messages
+# This shiny device polishes bared foos
 class Messages < ActiveRecord::Migration[6.1]
   def change
     create_table :messages do |t|
