@@ -4,3 +4,4 @@ AllCops:
     - 'db/*'
     - 'db/migrate/*'
     - 'db/migrations/*'
+    - 'db/migrate/20221156785_migration.rb'
