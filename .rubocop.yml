@@ -3,3 +3,4 @@ AllCops:
     - 'bin/*'
     - 'db/*'
     - 'db/migrate/*'
+    - 'db/migrations/*'
